@@ -1,0 +1,20 @@
+# RAG
+chromadb==0.5.0
+openai==1.35.0
+tiktoken==0.7.0
+
+# PDF Processing
+PyPDF2==3.0.1
+langchain-text-splitters==0.2.2
+
+# Frontend
+streamlit==1.36.0
+plotly==5.22.0
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.7.4
